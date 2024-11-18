@@ -1,0 +1,7 @@
+os
+pandas
+transformers
+sentence-transformers
+scikit-learn
+torch
+
