@@ -5,7 +5,7 @@ Task: [link](https://helsinki-nlp.github.io/shroom/)
 
 # Pipeline description (from Araya)
 
-1. Generate Wikipedia Summary: Generate a summary from Wikipedia based on self-checking GPT API.
+1. Generate Wikipedia Summary: Generate a summary from Wikipedia based on self-checking GPT API. Choose one summary out of 3 using self-checking.
 
 2. Correct LLM Output: Correct the LLM's output based on the Wikipedia summary using GPT API.
 
