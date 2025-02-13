@@ -3,7 +3,7 @@ Submission for SemEval-2025 Task-3 — Mu-SHROOM.
 
 Task: [link](https://helsinki-nlp.github.io/shroom/)
 
-# Pipeline description (from Araya)
+# Pipeline description
 
 
 # 1. [Training]Data annotation
